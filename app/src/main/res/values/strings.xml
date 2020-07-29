@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Configurações</string>
+    <string name="message_error_config_datetime">A configuração de data e hora não está disponível</string>
+    <string name="message_error_config_mobile_data">A configuração de dados móveis não está disponível</string>
 </resources>
